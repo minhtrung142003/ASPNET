@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASPNET\\Haminhtrung_2121110279_aspNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F09286-D0D7-442B-BE8F-416922884187}|Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET.csproj|e:\\aspnet\\haminhtrung_2121110279_aspnet\\haminhtrung_2121110279_aspnet\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F09286-D0D7-442B-BE8F-416922884187}|Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET.csproj|solutionrelative:haminhtrung_2121110279_aspnet\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F09286-D0D7-442B-BE8F-416922884187}|Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET.csproj|E:\\ASPNET\\Haminhtrung_2121110279_aspNET\\haminhtrung_2121110279_aspnet\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2F09286-D0D7-442B-BE8F-416922884187}|Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET.csproj|solutionrelative:haminhtrung_2121110279_aspnet\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F09286-D0D7-442B-BE8F-416922884187}|Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET.csproj|e:\\aspnet\\haminhtrung_2121110279_aspnet\\haminhtrung_2121110279_aspnet\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2F09286-D0D7-442B-BE8F-416922884187}|Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET.csproj|solutionrelative:haminhtrung_2121110279_aspnet\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F09286-D0D7-442B-BE8F-416922884187}|Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET.csproj|E:\\ASPNET\\Haminhtrung_2121110279_aspNET\\haminhtrung_2121110279_aspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2F09286-D0D7-442B-BE8F-416922884187}|Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET.csproj|solutionrelative:haminhtrung_2121110279_aspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F09286-D0D7-442B-BE8F-416922884187}|Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET.csproj|E:\\ASPNET\\Haminhtrung_2121110279_aspNET\\haminhtrung_2121110279_aspnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2F09286-D0D7-442B-BE8F-416922884187}|Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET.csproj|solutionrelative:haminhtrung_2121110279_aspnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F09286-D0D7-442B-BE8F-416922884187}|Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET.csproj|E:\\ASPNET\\Haminhtrung_2121110279_aspNET\\haminhtrung_2121110279_aspnet\\views\\home\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2F09286-D0D7-442B-BE8F-416922884187}|Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET.csproj|solutionrelative:haminhtrung_2121110279_aspnet\\views\\home\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "E:\\ASPNET\\Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Haminhtrung_2121110279_aspNET\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "E:\\ASPNET\\Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "Haminhtrung_2121110279_aspNET\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T14:58:48.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ASPNET\\Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Haminhtrung_2121110279_aspNET\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ASPNET\\Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Haminhtrung_2121110279_aspNET\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAAAKsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T08:51:42.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ASPNET\\Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Haminhtrung_2121110279_aspNET\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\ASPNET\\Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Haminhtrung_2121110279_aspNET\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T08:50:44.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\ASPNET\\Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Haminhtrung_2121110279_aspNET\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\ASPNET\\Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Haminhtrung_2121110279_aspNET\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T08:18:47.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Productlist.cshtml",
+              "DocumentMoniker": "E:\\ASPNET\\Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET\\Views\\Home\\Productlist.cshtml",
+              "RelativeDocumentMoniker": "Haminhtrung_2121110279_aspNET\\Views\\Home\\Productlist.cshtml",
+              "ToolTip": "E:\\ASPNET\\Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET\\Views\\Home\\Productlist.cshtml",
+              "RelativeToolTip": "Haminhtrung_2121110279_aspNET\\Views\\Home\\Productlist.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T08:10:19.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ASPNET\\Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Haminhtrung_2121110279_aspNET\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\ASPNET\\Haminhtrung_2121110279_aspNET\\Haminhtrung_2121110279_aspNET\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Haminhtrung_2121110279_aspNET\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAJAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T07:22:13.882Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

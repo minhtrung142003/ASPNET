@@ -1,0 +1,6 @@
+@haminhtrung_0279_HostAddress = http://localhost:5171
+
+GET {{haminhtrung_0279_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

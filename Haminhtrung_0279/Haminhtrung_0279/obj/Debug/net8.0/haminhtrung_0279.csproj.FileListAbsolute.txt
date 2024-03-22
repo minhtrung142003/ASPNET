@@ -1,0 +1,9 @@
+E:\ASPNET\haminhtrung_0279\haminhtrung_0279\obj\Debug\net8.0\haminhtrung_0279.csproj.AssemblyReference.cache
+E:\ASPNET\haminhtrung_0279\haminhtrung_0279\obj\Debug\net8.0\haminhtrung_0279.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASPNET\haminhtrung_0279\haminhtrung_0279\obj\Debug\net8.0\haminhtrung_0279.AssemblyInfoInputs.cache
+E:\ASPNET\haminhtrung_0279\haminhtrung_0279\obj\Debug\net8.0\haminhtrung_0279.AssemblyInfo.cs
+E:\ASPNET\haminhtrung_0279\haminhtrung_0279\obj\Debug\net8.0\haminhtrung_0279.csproj.CoreCompileInputs.cache
+E:\ASPNET\haminhtrung_0279\haminhtrung_0279\obj\Debug\net8.0\haminhtrung_0279.MvcApplicationPartsAssemblyInfo.cs
+E:\ASPNET\haminhtrung_0279\haminhtrung_0279\obj\Debug\net8.0\haminhtrung_0279.MvcApplicationPartsAssemblyInfo.cache
+E:\ASPNET\haminhtrung_0279\haminhtrung_0279\obj\Debug\net8.0\haminhtrung_0279.RazorAssemblyInfo.cache
+E:\ASPNET\haminhtrung_0279\haminhtrung_0279\obj\Debug\net8.0\haminhtrung_0279.RazorAssemblyInfo.cs

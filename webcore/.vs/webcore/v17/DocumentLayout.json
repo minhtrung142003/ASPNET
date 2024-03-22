@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp.net\\webcore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|d:\\asp.net\\webcore\\webcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|solutionrelative:webcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|d:\\asp.net\\webcore\\webcore\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|solutionrelative:webcore\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|d:\\asp.net\\webcore\\webcore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|solutionrelative:webcore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|d:\\asp.net\\webcore\\webcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|solutionrelative:webcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|d:\\asp.net\\webcore\\webcore\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|solutionrelative:webcore\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|d:\\asp.net\\webcore\\webcore\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|solutionrelative:webcore\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|d:\\asp.net\\webcore\\webcore\\migrations\\usercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|solutionrelative:webcore\\migrations\\usercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|d:\\asp.net\\webcore\\webcore\\migrations\\20240316082154_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|solutionrelative:webcore\\migrations\\20240316082154_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|d:\\asp.net\\webcore\\webcore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|solutionrelative:webcore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|d:\\asp.net\\webcore\\webcore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|solutionrelative:webcore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|d:\\asp.net\\webcore\\webcore\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|solutionrelative:webcore\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|d:\\asp.net\\webcore\\webcore\\webcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|solutionrelative:webcore\\webcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|d:\\asp.net\\webcore\\webcore\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|solutionrelative:webcore\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|d:\\asp.net\\webcore\\webcore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6464FE3-91A6-4D44-861F-3CBFC9E6D5E5}|webcore\\webcore.csproj|solutionrelative:webcore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\asp.net\\webcore\\webcore\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "webcore\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\asp.net\\webcore\\webcore\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "webcore\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwDIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:50:54.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\asp.net\\webcore\\webcore\\appsettings.json",
+              "RelativeDocumentMoniker": "webcore\\appsettings.json",
+              "ToolTip": "D:\\asp.net\\webcore\\webcore\\appsettings.json",
+              "RelativeToolTip": "webcore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T07:29:58.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp.net\\webcore\\webcore\\Program.cs",
+              "RelativeDocumentMoniker": "webcore\\Program.cs",
+              "ToolTip": "D:\\asp.net\\webcore\\webcore\\Program.cs",
+              "RelativeToolTip": "webcore\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:15:37.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\asp.net\\webcore\\webcore\\Migrations\\UserContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "webcore\\Migrations\\UserContextModelSnapshot.cs",
+              "ToolTip": "D:\\asp.net\\webcore\\webcore\\Migrations\\UserContextModelSnapshot.cs",
+              "RelativeToolTip": "webcore\\Migrations\\UserContextModelSnapshot.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:23:29.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "D:\\asp.net\\webcore\\webcore\\Models\\UserContext.cs",
+              "RelativeDocumentMoniker": "webcore\\Models\\UserContext.cs",
+              "ToolTip": "D:\\asp.net\\webcore\\webcore\\Models\\UserContext.cs",
+              "RelativeToolTip": "webcore\\Models\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:05:41.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\asp.net\\webcore\\webcore\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "webcore\\Models\\Users.cs",
+              "ToolTip": "D:\\asp.net\\webcore\\webcore\\Models\\Users.cs",
+              "RelativeToolTip": "webcore\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:02:49.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\asp.net\\webcore\\webcore\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "webcore\\Model\\Product.cs",
+              "ToolTip": "D:\\asp.net\\webcore\\webcore\\Model\\Product.cs",
+              "RelativeToolTip": "webcore\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:48:59.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240316082154_INIT.cs",
+              "DocumentMoniker": "D:\\asp.net\\webcore\\webcore\\Migrations\\20240316082154_INIT.cs",
+              "RelativeDocumentMoniker": "webcore\\Migrations\\20240316082154_INIT.cs",
+              "ToolTip": "D:\\asp.net\\webcore\\webcore\\Migrations\\20240316082154_INIT.cs",
+              "RelativeToolTip": "webcore\\Migrations\\20240316082154_INIT.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:21:54.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\asp.net\\webcore\\webcore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "webcore\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\asp.net\\webcore\\webcore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "webcore\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T07:35:49.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\asp.net\\webcore\\webcore\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "webcore\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\asp.net\\webcore\\webcore\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "webcore\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:48:26.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\asp.net\\webcore\\webcore\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "webcore\\WeatherForecast.cs",
+              "ToolTip": "D:\\asp.net\\webcore\\webcore\\WeatherForecast.cs",
+              "RelativeToolTip": "webcore\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:21:16.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "webcore.csproj",
+              "DocumentMoniker": "D:\\asp.net\\webcore\\webcore\\webcore.csproj",
+              "RelativeDocumentMoniker": "webcore\\webcore.csproj",
+              "ToolTip": "D:\\asp.net\\webcore\\webcore\\webcore.csproj",
+              "RelativeToolTip": "webcore\\webcore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T08:01:12.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\asp.net\\webcore\\webcore\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "webcore\\appsettings.Development.json",
+              "ToolTip": "D:\\asp.net\\webcore\\webcore\\appsettings.Development.json",
+              "RelativeToolTip": "webcore\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T07:29:55.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\asp.net\\webcore\\webcore\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "webcore\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\asp.net\\webcore\\webcore\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "webcore\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:49:03.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
